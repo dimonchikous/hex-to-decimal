@@ -4,7 +4,7 @@
 int htoi(char pingvin320kg[]);
 
 int main(int argc, char** argv) {
-	int shefos = htoi("1f"); //print here ur fucking number
+	int shefos = htoi("1f"); //put here ur fucking number
 	printf("*put here ur number lol* = %d\n", shefos);
 	return 0;
 }
